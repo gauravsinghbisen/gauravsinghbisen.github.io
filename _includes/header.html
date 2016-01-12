@@ -5,7 +5,13 @@
     </div>
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="{{ site.baseurl }}/blog.html">BLOG</a></li>
+        <li><a href="
+          {% if site.medium %}
+          https://medium.com/@{{ site.medium }}
+          {% else %}
+          {{ site.baseurl }}/blog.html
+          {% endif %}
+          ">BLOG</a></li>
         <li><a href="{{ site.baseurl }}/projects.html">PROJECTS</a></li>
         <li><a href="http://bhikadia.com/resume" target="_blank">RESUME</a></li>
       </ul>
