@@ -1,0 +1,50 @@
+
+{
+        "diet": {
+                "breakfast" : {
+                        "veg" : [
+                                        {
+                                                "name": "abc", 
+                                                "description":"", 
+                                                "youtube_link": "http://" 
+                                        }
+                                ],
+                        "nonveg": [
+                                {
+                                        "name": "abc", 
+                                        "description":"", 
+                                        "youtube_link": "http://" } 
+                        ]
+                },
+                "lunch" : {
+                        "veg" : [
+                                        {
+                                                "name": "abc", 
+                                                "description":"", 
+                                                "youtube_link": "http://" 
+                                        }
+                                ],
+                        "nonveg": [
+                                {
+                                        "name": "abc", 
+                                        "description":"", 
+                                        "youtube_link": "http://" } 
+                        ]
+                }, 
+                "dinner" : {
+                        "veg" : [
+                                        {
+                                                "name": "abc", 
+                                                "description":"", 
+                                                "youtube_link": "http://" 
+                                        }
+                                ],
+                        "nonveg": [
+                                {
+                                        "name": "abc", 
+                                        "description":"", 
+                                        "youtube_link": "http://" } 
+                        ]
+                }
+        }
+}

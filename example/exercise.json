@@ -1,0 +1,12 @@
+{
+	"exercies" : [
+		{
+			"name": "Trade Mill",
+			"youtube_link" : "http://google.com"
+		},
+		{
+			"name": "Trade Mill 2",
+			"youtube_link" : "http://google.com"
+		}
+	],
+}
