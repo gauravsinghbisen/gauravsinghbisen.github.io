@@ -11,18 +11,17 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://bhikadia.com/
+url: http://gauravbisen.com/
 baseurl:
-title: Harsh Bhikadia
-author: Harsh Bhikadia
+title: Gaurav Singh Bisen
+author: Gaurav Singh Bisen
 description: Personal blog and resume
 avatar: profile.jpg
-email: harsh@bhikadia.com
-github: daadu # username
-twitter: 4not7
-#linkedin: username
-stackoverflow: users/2554745/harsh-bhikadia   #e.g: users/2735833/proton1h1
-medium: daadu
+email: bisen.gaurav23@gmail.com
+github: gauravsinghbisen # username
+twitter: midspectrum
+linkedin: gauravsinghbisen
+medium: gauravsinghbisen
 #Comment out if you don't want disqus
 #disqus: username
 google_analytics: UA-71475870-2
